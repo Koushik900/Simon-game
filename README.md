@@ -26,12 +26,6 @@ Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard
 4. The sequence gets longer each round
 5. Make a mistake and the game ends
 
-## Installation
-To run locally:
-git clone https://github.com/Koushik900/Simon-game.git
-cd Simon-game
-open index.html
-
 ## Technologies Used
 - HTML5
 - CSS3
@@ -42,3 +36,10 @@ open index.html
 - Implement mobile touch support
 - Add animation effects
 - Create difficulty levels
+
+## Installation
+To run locally:
+```bash
+git clone https://github.com/Koushik900/Simon-game.git
+cd Simon-game
+open index.html
