@@ -33,12 +33,12 @@ cd Simon-game
 open index.html
 
 ## Technologies Used
-HTML5
-CSS3
-JavaScript (ES6)
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
 ## Future Improvements
-Add high score tracking
-Implement mobile touch support
-Add animation effects
-Create difficulty levels
+- Add high score tracking
+- Implement mobile touch support
+- Add animation effects
+- Create difficulty levels
