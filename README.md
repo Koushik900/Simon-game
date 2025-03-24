@@ -8,9 +8,9 @@ A web-based implementation of the classic Simon memory game built with HTML, CSS
 - [About the Game](#about-the-game)
 - [Features](#features)
 - [How to Play](#how-to-play)
-- [Installation](#installation)
 - [Technologies Used](#technologies-used)
 - [Future Improvements](#future-improvements)
+- [Installation](#installation)
 
 ## About the Game
 Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison. This web version recreates the classic gameplay where players must repeat an increasingly longer sequence of colors and sounds.
